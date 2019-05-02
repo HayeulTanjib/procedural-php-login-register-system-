@@ -1,0 +1,29 @@
+body{
+	font-family:arial;
+}
+div#wrapper {
+    width: 960px;
+    margin: auto;
+}
+
+div#header {
+    background: lightblue;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 75px;
+}
+div#footer {
+    background: #7f7878;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin-top: 100px;
+}
+div#home {
+    text-align: center;
+    color: green;
+}
+div#profile {
+    text-align: center;
+    color: green;
+}
